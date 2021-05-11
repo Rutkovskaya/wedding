@@ -3,4 +3,11 @@
     line-height: normal;
     margin:5px 0;
     color: black;
+    padding: 5px;
   }
+
+  @media (max-width: 720px) {
+    .content__text {
+        font-size:14px;
+    }
+}

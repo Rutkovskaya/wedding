@@ -2,5 +2,11 @@
     font-size: 25px;
     text-align: center;
     color: #444;
-    margin: 20px 0 0 0;
+    margin: 20px 0 10px 0;
    }
+
+   @media (max-width: 720px) {
+    .content__title {
+        font-size:18px;
+    }
+}
