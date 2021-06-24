@@ -1,3 +1,4 @@
 .img__WeddingColor{
-    width: 600px;
+    max-width: 600px;
+    min-width: 320px;
 }
